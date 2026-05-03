@@ -20,7 +20,7 @@ const Hero = ({ phone }: HeroProps) => {
         <span className="mb-6 rounded-full border border-primary-foreground/30 bg-primary-foreground/10 px-4 py-1.5 text-xs uppercase tracking-[0.2em] backdrop-blur animate-fade-in">
           Barber Shop · Od 2015
         </span>
-        <h1 className="max-w-3xl font-display drop-shadow-lg animate-fade-in">
+        <h1 className="max-w-3xl font-display drop-shadow-lg animate-fade-in text-6xl">
           Męski styl zaczyna się <span className="italic text-accent">tutaj</span>.
         </h1>
         <p className="mt-6 max-w-xl text-base md:text-lg text-primary-foreground/90 animate-fade-in">
